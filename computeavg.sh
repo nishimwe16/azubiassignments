@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#!Link to the Github repo for Compute the Average assignment
+#!https://github.com/nishimwe16/azubiassignments/blob/master/computeavg.sh
+
 read num
 sum=0
 i=0
