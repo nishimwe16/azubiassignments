@@ -2,7 +2,7 @@
 #https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/submissions/code/271199536
 
 #Github Repo
-#
+#https://github.com/nishimweprince/azubiassignments/blob/master/looping.sh
 
 #This condition iterates the number parameters in the following way:
 #First parameter is the starting number
